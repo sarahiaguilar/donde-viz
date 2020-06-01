@@ -1,6 +1,6 @@
 # ¿Dónde #NosEstánMatando?
 
-##### Visualización de Sarahí Aguilar
+#### Visualización de Sarahí Aguilar
 
 Hosteada aquí: https://donde-nos-estan-matando.netlify.app/
 
